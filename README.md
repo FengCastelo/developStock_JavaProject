@@ -4,7 +4,7 @@
 ![Java](https://img.shields.io/badge/Java-21-red)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.6-brightgreen)
 ![Maven](https://img.shields.io/badge/Maven-3.9.6-violet)
-![Postman](https://img.shields.io/badge/Postman-orange)
+![Postman](https://img.shields.io/badge/Postman-v11-brightorange)
 
 ## How to create this project
 
